@@ -1773,8 +1773,8 @@ padding:50px 0
 }
 .caixaserv2{
 	align-items: center;
-	padding-left: 250px;
-	margin-top: 25px;
+	margin: auto;
+	position: relative;
 }
 .trabalheConosco{
 	border: #0714403b solid;
