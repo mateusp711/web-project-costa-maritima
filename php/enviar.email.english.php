@@ -15,7 +15,7 @@
       <p><b>Nome: </b>$nome</p>
       <p><b>E-mail: </b>$email</p>
       <p><b>Telefone:</b>$telefone</p>
-      <p><b> Area de nteresse:</b>$interesse</p>
+      <p><b> Area de interesse:</b>$interesse</p>
       <p><b> Informações adicionais:<b>$interesse</p>
       <p><b> Currículo:<b>$curriculo</p>
       <p>Este e-mail foi enviado em <b>$data_envio</b> às <b>$hora_envio</b></p>
