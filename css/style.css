@@ -1838,3 +1838,7 @@ padding:50px 0
 	
 	
 }
+.estilozap{
+	position: sticky;
+	right: 50%;
+}
